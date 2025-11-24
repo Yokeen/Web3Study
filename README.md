@@ -1,4 +1,4 @@
-# Web3Study  记录学习Web3学到的知识
+# Web3Study  记录学习Web3的过程
 
 ## Tutorial_From_Chainlink
 [Chainlink Web3 Tutorial](https://github.com/smartcontractkit/Web3_tutorial_Chinese)
@@ -14,4 +14,5 @@
     - Hardhat基本使用
     - 合约测试与验证
 4. TypeScript学习
+
 5. 基础的跨链NFT
